@@ -1,4 +1,4 @@
-# HARMONy
+# HARMONY
 
 Welcome to [Website Name], your sanctuary for mindfulness and inner peace. Dive into a world of serenity where the chaos of everyday life fades away, and tranquility takes center stage. Our website offers a plethora of meditation guidance, tailored exercises, and immersive classes to help you embark on a transformative journey.
 
@@ -7,7 +7,7 @@ Our website aims to provide a digital sanctuary for individuals seeking solace f
 ## CONTENTS
 
 * [User Experience](#user-experience-ux)
-    *[User Stories](#user-stories)
+ *[User Stories](#user-stories)
 
 
 ## User Experience (UX)
