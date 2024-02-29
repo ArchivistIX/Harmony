@@ -7,33 +7,45 @@ Our website aims to provide a digital sanctuary for individuals seeking solace f
 ## CONTENTS
 
 * [User Experience](#user-experience-ux)
-  * [User Stories](#user-stories)
+    *[User Stories](#user-stories)
 
-* [Design](#design)
-  * [Colour Scheme](#colour-scheme)
-  * [Typography](#typography)
-  * [Imagery](#imagery)
-  * [Wireframes](#wireframes)
 
-* [Features](#features)
-  * [General Features on Each Page](#general-features-on-each-page)
-  * [Future Implementations](#future-implementations)
-  * [Accessibility](#accessibility)
+## User Experience (UX)
 
-* [Technologies Used](#technologies-used)
-  * [Languages Used](#languages-used)
-  * [Frameworks, Libraries & Programs Used](#frameworks-libraries--programs-used)
+### Initial Discussion
 
-* [Deployment & Local Development](#deployment--local-development)
-  * [Deployment](#deployment)
-  * [Local Development](#local-development)
-    * [How to Fork](#how-to-fork)
-    * [How to Clone](#how-to-clone)
+Harmony is a meditation platform designed to guide individuals on their path to inner peace and mindfulness. With a variety of meditation techniques, exercises and classes, users can cultivate mental well-being at their own pace.
 
-* [Testing](#testing)
+Due to increasing demand and the owner's time constraints, Harmony aims to streamline user inquiries and provide easy access to essential information.
 
-* [Credits](#credits)
-  * [Code Used](#code-used)
-  * [Content](#content)
-  * [Media](#media)
-  * [Acknowledgments](#acknowledgments)
+#### Key information for the site
+
+* Current meditation focus and upcoming sessions.
+* Membership details and participation guidelines.
+* Contact options for inquiries and recommendations.
+* Updates on upcoming features and events in 2024.
+
+### User Stories
+
+#### Client Goals
+
+* Ensure the website is accessible across different devices.
+* Simplify the process for potential users to understand and join the meditation community.
+* Provide clear visibility of current and future meditation topics.
+* Facilitate seamless communication between users and the meditation platform.
+
+#### First-Time Visitors Goals
+
+* Discover what Harmony offers and how to get involved.
+* Navigate the website effortlessly to find desired information.
+* Locate the platform's social media profiles, such as Instagram.
+
+#### Returning Visitors Goals
+
+* Find the latest information on ongoing meditation sessions.
+* Easily contact Harmony for further inquiries.
+* Access updated content and features.
+
+#### Frequent Visitor Goals
+
+* Share recommendations for meditation topics or techniques.
