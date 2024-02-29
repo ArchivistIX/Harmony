@@ -7,7 +7,8 @@ Our website aims to provide a digital sanctuary for individuals seeking solace f
 ## CONTENTS
 
 * [User Experience](#user-experience-ux)
- *[User Stories](#user-stories)
+    *[Initial Discussion](#initial-discussion)
+    *[User Stories](#user-stories)
 
 
 ## User Experience (UX)
